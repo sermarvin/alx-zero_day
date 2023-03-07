@@ -1,1 +1,1 @@
-This is my readme edit using the GitHub inteface
+This is my readme edit using the GitHub interface
